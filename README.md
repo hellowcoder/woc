@@ -45,29 +45,8 @@ Codeforces Challenge Enhancer is a Chrome extension designed to elevate the comp
 4. Solve the problem while tracking progress and updates in real time.
 5. View results and continue with new challenges as desired.
 
-## Project Structure
 
-```
-/codeforces-challenge-enhancer/
-├── manifest.json
-├── icons/
-│   ├── icon16.png
-│   ├── icon48.png
-│   ├── icon128.png
-├── popup.html
-├── popup.js
-├── background.js
-├── content.js
-├── styles.css
-├── options.html
-├── options.js
-```
 
-- **manifest.json**: Extension configuration.
-- **popup.html**: Main UI for creating/joining rooms and starting challenges.
-- **background.js**: Handles room synchronization and notifications.
-- **content.js**: Injects features like the "Challenge" button and countdown timer into Codeforces pages.
-- **styles.css**: Styling for the extension's UI.
 
 ## Technologies Used
 
