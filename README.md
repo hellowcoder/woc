@@ -30,7 +30,7 @@ Codeforces Challenge Enhancer is a Chrome extension designed to elevate the comp
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/hellowcoder/woc/code/
+   git clone https://github.com/hellowcoder/woc
    ```
 2. Open Chrome and navigate to `chrome://extensions/`.
 3. Enable **Developer mode** in the top-right corner.
